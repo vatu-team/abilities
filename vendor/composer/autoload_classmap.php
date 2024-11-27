@@ -227,6 +227,7 @@ return array(
     'CaptainHook\\Secrets\\Regex\\Supplier' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier.php',
     'CaptainHook\\Secrets\\Regex\\Supplier\\Aws' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/Aws.php',
     'CaptainHook\\Secrets\\Regex\\Supplier\\GitHub' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/GitHub.php',
+    'CaptainHook\\Secrets\\Regex\\Supplier\\Gitlab' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/Gitlab.php',
     'CaptainHook\\Secrets\\Regex\\Supplier\\Google' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/Google.php',
     'CaptainHook\\Secrets\\Regex\\Supplier\\Ini' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/Ini.php',
     'CaptainHook\\Secrets\\Regex\\Supplier\\Json' => $vendorDir . '/captainhook/secrets/src/Regex/Supplier/Json.php',

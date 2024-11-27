@@ -400,6 +400,7 @@ class ComposerStaticInit43ca84e3e129cd9f3550a30733265562
         'CaptainHook\\Secrets\\Regex\\Supplier' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier.php',
         'CaptainHook\\Secrets\\Regex\\Supplier\\Aws' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/Aws.php',
         'CaptainHook\\Secrets\\Regex\\Supplier\\GitHub' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/GitHub.php',
+        'CaptainHook\\Secrets\\Regex\\Supplier\\Gitlab' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/Gitlab.php',
         'CaptainHook\\Secrets\\Regex\\Supplier\\Google' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/Google.php',
         'CaptainHook\\Secrets\\Regex\\Supplier\\Ini' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/Ini.php',
         'CaptainHook\\Secrets\\Regex\\Supplier\\Json' => __DIR__ . '/..' . '/captainhook/secrets/src/Regex/Supplier/Json.php',
